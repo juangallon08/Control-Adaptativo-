@@ -1,2 +1,2 @@
-# Control-Adaptativo-
-Control ajustable para un sistema de primer orden 
+# Adaptive Control
+Adjustable control for a first-order system.
